@@ -16,7 +16,9 @@
     "standard": "17.0.0"
   },
   "dependencies": {
-    "express": "4.18.1"
+    "cors": "^2.8.5",
+    "express": "4.18.1",
+    "heroku": "^7.33.3"
   },
   "eslintConfig": {
     "extends": "./node_modules/standar/eslintrc.json"
